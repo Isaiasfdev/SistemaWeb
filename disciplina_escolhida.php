@@ -80,7 +80,7 @@ body{
 	}
 </style>
 <body>
-<a href="listar_disciplina_especifica.php"><img src="anterior.png">Voltar</a>
+<a href="listar_disciplina_especifica.php"><img src="imagens/anterior.png">Voltar</a>
 <div class="resultado">
 	
 	<?php

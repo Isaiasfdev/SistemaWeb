@@ -170,7 +170,7 @@
 <body>
 	<header>
 	<h2>Área do professor</h2>
-	<a href="index.php"><img src="..imagens/log-out.png">Sair</a>
+	<a href="index.php"><img src="imagens/log-out.png">Sair</a>
 	</header>
 	<section>
 		<?php print_r('<h1>Olá </h1> '.'<h1>'.$dado[1].'</h1>'. '<h1>, aqui estão suas aulas!</h1>');?>

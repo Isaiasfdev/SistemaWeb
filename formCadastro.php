@@ -14,7 +14,7 @@
 	}
 	</script>
 	<!-- fim script -->
-	<!-- Estilo -->
+	<!-- Estilo do formulario de cadastro -->
 	<style>
 		body{
 			background-image: url("imagens/imagemfundo4.png");

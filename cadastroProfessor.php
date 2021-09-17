@@ -33,7 +33,7 @@
 		echo "<script>
 
 		alert('Professor(a) cadastrado(a) com sucesso!')
-		window.location.href='index.php';
+		window.location.href='index.html';
 		</script>";
 	}
 	else

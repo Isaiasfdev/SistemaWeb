@@ -77,7 +77,7 @@ body{
 </style>
 <body>
 <div class="login">
-<h1>Login</h1>
+<h1>Conecte-se</h1>
 <form method="post" action="areadoprofessor.php">
 
 	<input type="text" name="codigo" placeholder="Código" required><br><br>
@@ -86,7 +86,7 @@ body{
 
 	<input type="submit" name="Entrar" value="Entrar"><br><br><br>
 
-	<a href="index.php"><img src="casa.png"><br>Home</a>
+	<a href="index.php"><img src="imagens/casa.png"><br>Pagina inicial</a>
 
 </form>
 </div>

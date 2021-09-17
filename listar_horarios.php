@@ -117,7 +117,7 @@
 <body>
 	<header>
 	<h2>Lista de aulas</h2>
-	<a href="index.php"><img src="anterior.png">Voltar</a>
+	<a href="index.php"><img src="imagens/anterior.png">Voltar</a>
 	</header>
 	<section>
 	<div class="matutino">
